@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+
+
+.App-header {
+  background-color: #3066d3;
+  min-height: 18vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Peli-Individual{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 30px;
+  border-radius: 10px;
+  background-color: bisque;
+}
+
+.MensajeNada{
+  display:flex;
+  text-align: center;
+  flex-direction:column;
+  padding-top: 100px;
+  font-size: calc(8px + 2vmin);
+  min-height: 40vh;
+}
+
+.Compra2{
+  padding-top: 50px;
+}
+
+.Compra{
+  display:flex;
+  align-items: flex-start;
+  text-align: center;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.btnPelis{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  max-width: 100%;
+}
+.Contenedor-Pelis{
+  margin: 0px;
+}
+
+.info{
+  max-width: 60%;
+}
+
+.poster{
+  justify-content: center;
+  align-items: center;
+  max-width: 50%;
+  display: flex;
+}
+
+.poster img{
+  height: auto; 
+  width: auto; 
+  max-width: 100px; 
+  max-height: 100px;
+}
+
+.DetallesComp{
+  background-color: bisque;
+  border-radius: 10px;
+}
+
+.MasBotones{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.Containers{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
