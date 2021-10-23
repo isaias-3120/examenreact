@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/examenreact/static/css/main.b01ecedb.chunk.css",
+    "main.js": "/examenreact/static/js/main.0f3e0de8.chunk.js",
+    "main.js.map": "/examenreact/static/js/main.0f3e0de8.chunk.js.map",
+    "runtime-main.js": "/examenreact/static/js/runtime-main.838f55a4.js",
+    "runtime-main.js.map": "/examenreact/static/js/runtime-main.838f55a4.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/examenreact/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d54320d1.chunk.js": "/examenreact/static/js/2.d54320d1.chunk.js",
+    "static/js/2.d54320d1.chunk.js.map": "/examenreact/static/js/2.d54320d1.chunk.js.map",
+    "static/js/3.4155d468.chunk.js": "/examenreact/static/js/3.4155d468.chunk.js",
+    "static/js/3.4155d468.chunk.js.map": "/examenreact/static/js/3.4155d468.chunk.js.map",
+    "index.html": "/examenreact/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/examenreact/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.b01ecedb.chunk.css.map": "/examenreact/static/css/main.b01ecedb.chunk.css.map",
+    "static/js/2.d54320d1.chunk.js.LICENSE.txt": "/examenreact/static/js/2.d54320d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.838f55a4.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d54320d1.chunk.js",
+    "static/css/main.b01ecedb.chunk.css",
+    "static/js/main.0f3e0de8.chunk.js"
+  ]
+}
